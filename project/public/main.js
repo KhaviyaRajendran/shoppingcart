@@ -145,3 +145,4 @@ function displayCart(){
 
 
 onLoadCartNumbers();
+displayCart();
